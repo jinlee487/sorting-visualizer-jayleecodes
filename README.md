@@ -49,6 +49,7 @@ The sorting visualizer should show the following:
 -	interactive was to change array size and sequence speed
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 ### Built With
 
 Below are the major frameworks/libraries used to for my project.
