@@ -16,6 +16,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#DEMO">DEMO</a></li>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -28,6 +29,12 @@
 </details>
 
 
+
+## DEMO 
+
+    Below is the demo link for the sorting visualizer. Please test out my project! 
+
+* [https://sorting-visualizer-jinlee487.vercel.app/](https://sorting-visualizer-jinlee487.vercel.app/)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
